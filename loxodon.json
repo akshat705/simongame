@@ -3,5 +3,5 @@
     "childgrp1":"child1",
     "childgrp2":"child2",
     "childgrp3":"child3",
-    "deletedAcl" : [{"name":"child1","time":"t1"}]
+    "deletedAcl" : []
 }
